@@ -10,4 +10,4 @@ def palindrome(chaine):
     else:
         print("Ce n'est pas un palindrome.")
 
-print(palindrome("Karine alla en mali et l'Irak"))
+print(palindrome(""))
